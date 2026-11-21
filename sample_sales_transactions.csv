@@ -1,0 +1,121 @@
+Transaction ID,Close Date,Month,Account Owner,Region,Product,Gross Revenue,Status
+SO-0001,2026-01-02,Jan,Jordan Lee,West,Connectivity,919.42,Refunded
+SO-0002,2026-02-09,Feb,Alex Morgan,Central,Cloud Voice,1002.55,Closed Won
+SO-0003,2026-03-16,Mar,Taylor Reed,East,Security,1008.28,Closed Won
+SO-0004,2026-04-23,Apr,Casey Brooks,West,Connectivity,1949.8,Closed Won
+SO-0005,2026-05-03,May,Riley Parker,Central,Cloud Voice,655.08,Closed Won
+SO-0006,2026-06-10,Jun,Alex Morgan,East,Security,2367.66,Closed Won
+SO-0007,2026-01-17,Jan,Taylor Reed,Central,Security,2339.3,Closed Won
+SO-0008,2026-02-24,Feb,Casey Brooks,East,Mobile,619.33,Closed Won
+SO-0009,2026-03-04,Mar,Riley Parker,West,Connectivity,2146.48,Closed Won
+SO-0010,2026-04-11,Apr,Jordan Lee,Central,Security,1716.52,Refunded
+SO-0011,2026-05-18,May,Taylor Reed,East,Mobile,2032.36,Closed Won
+SO-0012,2026-06-25,Jun,Casey Brooks,West,Connectivity,1115.95,Closed Won
+SO-0013,2026-01-05,Jan,Riley Parker,East,Connectivity,2868.48,Closed Won
+SO-0014,2026-02-12,Feb,Jordan Lee,West,Cloud Voice,1493.75,Closed Won
+SO-0015,2026-03-19,Mar,Alex Morgan,Central,Security,2529.06,Closed Won
+SO-0016,2026-04-26,Apr,Casey Brooks,East,Connectivity,2391.4,Closed Won
+SO-0017,2026-05-06,May,Riley Parker,West,Cloud Voice,2832.78,Closed Won
+SO-0018,2026-06-13,Jun,Jordan Lee,Central,Security,588.52,Closed Won
+SO-0019,2026-01-20,Jan,Alex Morgan,West,Security,2752.19,Refunded
+SO-0020,2026-02-27,Feb,Taylor Reed,Central,Mobile,1049.03,Closed Won
+SO-0021,2026-03-07,Mar,Riley Parker,East,Connectivity,828.0,Closed Won
+SO-0022,2026-04-14,Apr,Jordan Lee,West,Security,1941.95,Closed Won
+SO-0023,2026-05-21,May,Alex Morgan,Central,Mobile,1006.59,Closed Won
+SO-0024,2026-06-28,Jun,Taylor Reed,East,Connectivity,2796.88,Closed Won
+SO-0025,2026-01-08,Jan,Casey Brooks,Central,Connectivity,1386.98,Closed Won
+SO-0026,2026-02-15,Feb,Jordan Lee,East,Cloud Voice,2489.9,Closed Won
+SO-0027,2026-03-22,Mar,Alex Morgan,West,Security,593.28,Closed Won
+SO-0028,2026-04-02,Apr,Taylor Reed,Central,Connectivity,2825.04,Refunded
+SO-0029,2026-05-09,May,Casey Brooks,East,Cloud Voice,1218.43,Closed Won
+SO-0030,2026-06-16,Jun,Riley Parker,West,Security,1813.55,Closed Won
+SO-0031,2026-01-23,Jan,Alex Morgan,East,Security,815.92,Closed Won
+SO-0032,2026-02-03,Feb,Taylor Reed,West,Mobile,624.31,Closed Won
+SO-0033,2026-03-10,Mar,Casey Brooks,Central,Connectivity,538.3,Closed Won
+SO-0034,2026-04-17,Apr,Riley Parker,East,Security,779.35,Closed Won
+SO-0035,2026-05-24,May,Jordan Lee,West,Mobile,1855.47,Closed Won
+SO-0036,2026-06-04,Jun,Taylor Reed,Central,Connectivity,2461.95,Closed Won
+SO-0037,2026-01-11,Jan,Casey Brooks,West,Connectivity,2545.71,Refunded
+SO-0038,2026-02-18,Feb,Riley Parker,Central,Cloud Voice,1527.82,Closed Won
+SO-0039,2026-03-25,Mar,Jordan Lee,East,Security,2536.67,Closed Won
+SO-0040,2026-04-05,Apr,Alex Morgan,West,Connectivity,997.74,Closed Won
+SO-0041,2026-05-12,May,Casey Brooks,Central,Cloud Voice,2616.52,Closed Won
+SO-0042,2026-06-19,Jun,Riley Parker,East,Security,1116.29,Closed Won
+SO-0043,2026-01-26,Jan,Jordan Lee,Central,Security,2756.61,Closed Won
+SO-0044,2026-02-06,Feb,Alex Morgan,East,Mobile,1434.65,Closed Won
+SO-0045,2026-03-13,Mar,Taylor Reed,West,Connectivity,615.52,Closed Won
+SO-0046,2026-04-20,Apr,Riley Parker,Central,Security,1753.6,Refunded
+SO-0047,2026-05-27,May,Jordan Lee,East,Mobile,660.22,Closed Won
+SO-0048,2026-06-07,Jun,Alex Morgan,West,Connectivity,698.24,Closed Won
+SO-0049,2026-01-14,Jan,Taylor Reed,East,Connectivity,1816.95,Closed Won
+SO-0050,2026-02-21,Feb,Casey Brooks,West,Cloud Voice,2219.54,Closed Won
+SO-0051,2026-03-28,Mar,Jordan Lee,Central,Security,626.5,Closed Won
+SO-0052,2026-04-08,Apr,Alex Morgan,East,Connectivity,1488.07,Closed Won
+SO-0053,2026-05-15,May,Taylor Reed,West,Cloud Voice,1400.52,Closed Won
+SO-0054,2026-06-22,Jun,Casey Brooks,Central,Security,2379.15,Closed Won
+SO-0055,2026-01-02,Jan,Riley Parker,West,Security,2877.24,Refunded
+SO-0056,2026-02-09,Feb,Alex Morgan,Central,Mobile,294.24,Closed Won
+SO-0057,2026-03-16,Mar,Taylor Reed,East,Connectivity,1813.98,Closed Won
+SO-0058,2026-04-23,Apr,Casey Brooks,West,Security,767.96,Closed Won
+SO-0059,2026-05-03,May,Riley Parker,Central,Mobile,2385.3,Closed Won
+SO-0060,2026-06-10,Jun,Jordan Lee,East,Connectivity,2762.48,Closed Won
+SO-0061,2026-01-17,Jan,Taylor Reed,Central,Connectivity,2201.41,Closed Won
+SO-0062,2026-02-24,Feb,Casey Brooks,East,Cloud Voice,1904.07,Closed Won
+SO-0063,2026-03-04,Mar,Riley Parker,West,Security,616.45,Closed Won
+SO-0064,2026-04-11,Apr,Jordan Lee,Central,Connectivity,749.11,Refunded
+SO-0065,2026-05-18,May,Alex Morgan,East,Cloud Voice,1090.43,Closed Won
+SO-0066,2026-06-25,Jun,Casey Brooks,West,Security,714.53,Closed Won
+SO-0067,2026-01-05,Jan,Riley Parker,East,Security,335.36,Closed Won
+SO-0068,2026-02-12,Feb,Jordan Lee,West,Mobile,2803.17,Closed Won
+SO-0069,2026-03-19,Mar,Alex Morgan,Central,Connectivity,1348.06,Closed Won
+SO-0070,2026-04-26,Apr,Taylor Reed,East,Security,2678.32,Closed Won
+SO-0071,2026-05-06,May,Riley Parker,West,Mobile,2330.79,Closed Won
+SO-0072,2026-06-13,Jun,Jordan Lee,Central,Connectivity,2365.45,Closed Won
+SO-0073,2026-01-20,Jan,Alex Morgan,West,Connectivity,2692.6,Refunded
+SO-0074,2026-02-27,Feb,Taylor Reed,Central,Cloud Voice,2181.03,Closed Won
+SO-0075,2026-03-07,Mar,Casey Brooks,East,Security,1347.4,Closed Won
+SO-0076,2026-04-14,Apr,Jordan Lee,West,Connectivity,1637.82,Closed Won
+SO-0077,2026-05-21,May,Alex Morgan,Central,Cloud Voice,1448.37,Closed Won
+SO-0078,2026-06-28,Jun,Taylor Reed,East,Security,238.74,Closed Won
+SO-0079,2026-01-08,Jan,Casey Brooks,Central,Security,624.93,Closed Won
+SO-0080,2026-02-15,Feb,Riley Parker,East,Mobile,1870.87,Closed Won
+SO-0081,2026-03-22,Mar,Alex Morgan,West,Connectivity,1764.12,Closed Won
+SO-0082,2026-04-02,Apr,Taylor Reed,Central,Security,2834.37,Refunded
+SO-0083,2026-05-09,May,Casey Brooks,East,Mobile,1997.05,Closed Won
+SO-0084,2026-06-16,Jun,Riley Parker,West,Connectivity,2468.48,Closed Won
+SO-0085,2026-01-23,Jan,Jordan Lee,East,Connectivity,1654.09,Closed Won
+SO-0086,2026-02-03,Feb,Taylor Reed,West,Cloud Voice,1905.2,Closed Won
+SO-0087,2026-03-10,Mar,Casey Brooks,Central,Security,2461.0,Closed Won
+SO-0088,2026-04-17,Apr,Riley Parker,East,Connectivity,601.09,Closed Won
+SO-0089,2026-05-24,May,Jordan Lee,West,Cloud Voice,226.23,Closed Won
+SO-0090,2026-06-04,Jun,Alex Morgan,Central,Security,1542.5,Closed Won
+SO-0091,2026-01-11,Jan,Casey Brooks,West,Security,1215.44,Refunded
+SO-0092,2026-02-18,Feb,Riley Parker,Central,Mobile,1538.86,Closed Won
+SO-0093,2026-03-25,Mar,Jordan Lee,East,Connectivity,672.35,Closed Won
+SO-0094,2026-04-05,Apr,Alex Morgan,West,Security,921.96,Closed Won
+SO-0095,2026-05-12,May,Taylor Reed,Central,Mobile,754.31,Closed Won
+SO-0096,2026-06-19,Jun,Riley Parker,East,Connectivity,1968.74,Closed Won
+SO-0097,2026-01-26,Jan,Jordan Lee,Central,Connectivity,598.63,Closed Won
+SO-0098,2026-02-06,Feb,Alex Morgan,East,Cloud Voice,568.82,Closed Won
+SO-0099,2026-03-13,Mar,Taylor Reed,West,Security,2140.07,Closed Won
+SO-0100,2026-04-20,Apr,Casey Brooks,Central,Connectivity,610.98,Refunded
+SO-0101,2026-05-27,May,Jordan Lee,East,Cloud Voice,574.17,Closed Won
+SO-0102,2026-06-07,Jun,Alex Morgan,West,Security,2758.21,Closed Won
+SO-0103,2026-01-14,Jan,Taylor Reed,East,Security,1687.62,Closed Won
+SO-0104,2026-02-21,Feb,Casey Brooks,West,Mobile,2750.25,Closed Won
+SO-0105,2026-03-28,Mar,Riley Parker,Central,Connectivity,2063.54,Closed Won
+SO-0106,2026-04-08,Apr,Alex Morgan,East,Security,1821.69,Closed Won
+SO-0107,2026-05-15,May,Taylor Reed,West,Mobile,1460.58,Closed Won
+SO-0108,2026-06-22,Jun,Casey Brooks,Central,Connectivity,759.5,Closed Won
+SO-0109,2026-01-02,Jan,Riley Parker,West,Connectivity,2818.62,Refunded
+SO-0110,2026-02-09,Feb,Jordan Lee,Central,Cloud Voice,1566.36,Closed Won
+SO-0111,2026-03-16,Mar,Taylor Reed,East,Security,499.44,Closed Won
+SO-0112,2026-04-23,Apr,Casey Brooks,West,Connectivity,866.25,Closed Won
+SO-0113,2026-05-03,May,Riley Parker,Central,Cloud Voice,1937.97,Closed Won
+SO-0114,2026-06-10,Jun,Jordan Lee,East,Security,2860.1,Closed Won
+SO-0115,2026-01-17,Jan,Alex Morgan,Central,Security,1476.37,Closed Won
+SO-0116,2026-02-24,Feb,Casey Brooks,East,Mobile,2440.81,Closed Won
+SO-0117,2026-03-04,Mar,Riley Parker,West,Connectivity,2185.64,Closed Won
+SO-0118,2026-04-11,Apr,Jordan Lee,Central,Security,1745.96,Refunded
+SO-0119,2026-05-18,May,Alex Morgan,East,Mobile,2074.98,Closed Won
+SO-0120,2026-06-25,Jun,Taylor Reed,West,Connectivity,2262.99,Closed Won
